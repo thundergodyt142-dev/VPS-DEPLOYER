@@ -2,4 +2,6 @@
 
 **INSTALLATION**
 
-Run this Command - `bash <(curl -s https://raw.githubusercontent.com/thundergodyt142-dev/VPS-DEPLOYER/main/install.sh)`
+Run this Command - 
+
+```bash <(curl -s https://raw.githubusercontent.com/thundergodyt142-dev/VPS-DEPLOYER/main/install.sh)```
